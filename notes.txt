@@ -1,0 +1,15 @@
+About me
+    Name
+    Contact details
+    GitHub
+    LinkedIn
+
+Where I've Been
+    Work experience
+    Education
+
+Hobbies & Interests
+    Floorball
+    Football
+    DeepRacer
+    Smart home technology
