@@ -1,0 +1,7 @@
+<div class="toolbar">
+    <ul class="nav nav-pills">
+        <li *ngFor="let tab of tabs; let idx=index" class="nav-item">
+            <a class="nav-link" [ngClass]="activeIndex===idx ? 'active' : ''" href="#" (click)="activeIndex=idx">{{ tab }}</a>
+        </li>
+    </ul>
+</div>

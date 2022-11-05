@@ -1,0 +1,17 @@
+.toolbar {
+  padding: 0.8rem ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #0D6EFD;
+  color: white;
+  font-weight: 600;
+
+  .nav-link {
+    color: #EDF2F4;
+    &.active {
+      background-color: #EDF2F4;
+      color: #2B2D42;
+    }
+  }
+}

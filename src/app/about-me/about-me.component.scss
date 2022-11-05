@@ -1,0 +1,11 @@
+.about-me {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  padding: 3.6rem;
+  &--para {
+    max-width: 40rem;
+    padding: 2.4rem;
+  }
+}
